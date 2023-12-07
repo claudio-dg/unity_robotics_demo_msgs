@@ -1,0 +1,1 @@
+bool hand_is_closed
